@@ -4,6 +4,8 @@ A React component for creating a masonry grid layout.
 
 ## Demo
 
+![Demo Image](https://github.com/nikhil101001/react-brick/blob/main/demo.png?raw=true)
+
 ## Installation
 
 ```bash
@@ -48,7 +50,3 @@ export default App;
 
 - `data`: An array of objects representing the data to be displayed in the grid.
 - `title`: (Optional) A string to be displayed as the title of the grid.
-
-## License
-
-MIT
