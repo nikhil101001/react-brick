@@ -1,10 +1,14 @@
 {
   "name": "react-brick",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "type": "module",
-  "license": "MIT",
+  "homepage": "https://github.com/nikhil101001/react-brick",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nikhil101001/react-brick.git"
+  },
   "scripts": {
     "build": "rollup -c"
   },
